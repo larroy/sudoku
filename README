@@ -1,0 +1,19 @@
+To solve a sudoku of nine elements from 1 to 9, create a text file with the data of it, where '0' or '.' are free places.
+
+The text file should have something like:
+0 0 0 2 9 3 0 0 0
+0 2 7 0 0 0 3 6 0
+0 1 0 0 0 0 0 4 0
+4 6 0 0 5 0 0 7 3
+0 0 0 0 0 0 0 0 0
+7 3 0 0 8 0 0 2 1
+0 7 0 0 0 0 0 3 0
+0 8 6 0 0 0 1 9 0
+0 0 0 7 6 8 0 5 0
+
+Then run the program with the text file as argument.
+
+./Sudoku sudoku.txt
+
+
+Many thanks to Bert Hubert for his many tips, advice, code reviews and C++ insight. 
