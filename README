@@ -1,3 +1,7 @@
+Sudoku 
+======
+A sudoku puzzle solver based on depth-first search
+
 To solve a sudoku of nine elements from 1 to 9, create a text file with the data of it, where '0' or '.' are free places.
 
 The text file should have something like:
