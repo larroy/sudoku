@@ -1,6 +1,8 @@
 Sudoku 
 ======
-A sudoku puzzle solver based on depth-first search
+A sudoku puzzle solver based on depth-first search.
+
+I wrote this little program in 2005 when I was learning to code in C++.
 
 To solve a sudoku of nine elements from 1 to 9, create a text file with the data of it, where '0' or '.' are free places.
 
